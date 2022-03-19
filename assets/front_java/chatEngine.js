@@ -483,7 +483,7 @@ class chatEngine{
 
 
 
-                    window.location.href=`/message/messagepage/${friendId}`;
+                    window.location.href=`/groups/groupchatpage/${groupId}`;
 
 
 
